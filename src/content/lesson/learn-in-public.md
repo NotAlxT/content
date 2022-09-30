@@ -49,7 +49,7 @@ I really doubt that, learning to code is hard and people read a lot about it and
 
 Nobody is! I've been coding for 20 years and I still think I'm no expert, by showing your perspective on the topics you just learned you are helping other amateurs on their journey.
 
-### I don't have time
+### I do not have time 
 
 You don't do it all, you can just pick one or two things you might enjoy doing. Even if you are learning privately you have to take notes and finish coding projects and challenges, why not taking some extra time to publish them? I think it's 100% worth your time.
 
